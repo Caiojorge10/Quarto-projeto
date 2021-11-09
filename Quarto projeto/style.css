@@ -1,0 +1,215 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    background: #fff url(img/fundo.png) repeat-x;
+}
+
+.container{
+    
+    width: 750px;
+    margin: 0 auto;
+}
+
+.topo{
+    height: 150px;
+    background: url(img/detalhe-topo.png) no-repeat right top;
+}
+
+.logo{
+    width: 152px;
+    height: 66px;
+    background: url(img/logo.png) no-repeat ;
+    text-indent: -3000px;
+    
+}
+
+.link{
+    width: 800px;
+    height: 85px;
+    margin-top: 30px;
+    font-size: 14px;
+}
+
+.link ul{
+    float: left;
+    list-style: none;
+    width: 610px;
+    background-color: #b10333;
+}
+
+.link ul li{
+    float: left;
+}
+
+.link ul a{
+    text-decoration: none;
+    color: #fff;
+    display: block;
+    padding: 17px 20px;
+    background: url(img/divisor.png) repeat-y;
+}
+
+.link a:hover{
+    background-color: rgb(248, 50, 50);
+    color: #fff;
+}
+
+.nav-lateral{
+    width: 220px;
+    height: 0px;
+    margin: 110px 0 0 500px;
+}
+
+
+.entrevistas{
+    background-color: #294c71;
+    width: 220px;
+    height: 35px;
+    line-height: 35px;
+    color: #fff;
+    font-size: 22px;
+}
+
+.lateral{
+    list-style: none;
+    font-size: 18px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.lateral li{
+    padding: 6px;
+}
+
+.lateral li a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+.novidade{
+    background-color: #294c71;
+    font-size: 24px;
+    width: 200px;
+    height: 35px;
+    line-height: 35px;
+    color: #fff;
+    margin-top: 50px;
+}
+
+.form{
+    padding-top: 15px;
+}
+
+.botao{
+    margin-top: 5px;
+    padding: 12px 16px;
+    background-color: rgb(243, 79, 79);
+}
+
+.ult-entrevista{
+    width: 300px;
+    height: 0px;
+    margin: 0 0 0 750px;
+}
+
+.ulti{
+    background-color: #294c71;
+    width: 300px;
+    height: 35px;
+    line-height: 35px;
+    color: #fff;
+    font-size: 22px;
+}
+
+.sub-ulti{
+    background-color: red;
+    font-size: 14px;
+    margin-top: 10px;
+    padding: 10px auto;
+    width: 200px;
+    margin-left: 3px;
+}
+
+.foto{
+    width: 260px;
+    margin-top: 10px;
+    height: 150px;
+}
+
+.link-ult{
+    text-decoration: none;
+    color: red;
+    font-size: 18px;
+}
+
+.mund{
+    background-color: #294c71;
+    width: 300px;
+    height: 35px;
+    line-height: 35px;
+    color: #fff;
+    font-size: 22px;
+    margin-top: 30px;
+}
+
+.fotos{
+    width: 120px;
+    height: 0px;
+}
+
+.foto1{
+    width: 120px;
+    padding: 10px;
+}
+
+.paragrafos{
+    width: 170px;
+    height: 400px;
+    margin-left: 130px;
+    padding-left: 8px;
+}
+
+.paragrafos h3{
+    color: rgb(97, 97, 233);
+    padding: 3px;
+}
+
+.destaque{
+    width: 300px;
+    height: 0px;
+    margin: 0 0 0 1080px;
+}
+
+.desta{
+    background-color: #294c71;
+    width: 300px;
+    height: 35px;
+    line-height: 35px;
+    color: #fff;
+    font-size: 22px
+}
+
+.sub-dest{
+    background-color: red;
+    font-size: 18px;
+    margin-top: 8px;
+    padding: 10px auto;
+    width: 130px;
+    margin-left: 3px;
+    color: #fff;
+}
+
+.recent{
+    background-color: #294c71;
+    width: 300px;
+    height: 35px;
+    line-height: 35px;
+    color: #fff;
+    font-size: 22px;
+    margin-top: 28px;
+}
